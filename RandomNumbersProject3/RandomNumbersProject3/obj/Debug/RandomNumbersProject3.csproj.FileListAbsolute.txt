@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\CSharp-Programming\RandomNumbersProject3\RandomNumbersProject3\bin\Debug\RandomNumbersProject3.exe.config
+C:\Users\Asus\Documents\CSharp-Programming\RandomNumbersProject3\RandomNumbersProject3\bin\Debug\RandomNumbersProject3.exe
+C:\Users\Asus\Documents\CSharp-Programming\RandomNumbersProject3\RandomNumbersProject3\bin\Debug\RandomNumbersProject3.pdb
+C:\Users\Asus\Documents\CSharp-Programming\RandomNumbersProject3\RandomNumbersProject3\obj\Debug\RandomNumbersProject3.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\CSharp-Programming\RandomNumbersProject3\RandomNumbersProject3\obj\Debug\RandomNumbersProject3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\CSharp-Programming\RandomNumbersProject3\RandomNumbersProject3\obj\Debug\RandomNumbersProject3.exe
+C:\Users\Asus\Documents\CSharp-Programming\RandomNumbersProject3\RandomNumbersProject3\obj\Debug\RandomNumbersProject3.pdb
